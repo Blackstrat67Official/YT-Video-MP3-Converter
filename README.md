@@ -1,10 +1,6 @@
-Here's the English description for your GitHub repository:
-
----
-
-### **YouTube Video Downloader & MP3 Extractor**  
+# **YouTube Video Downloader & MP3 Extractor**  
 A simple Python script to download YouTube videos and automatically convert the audio into MP3 format. Perfect for quickly extracting audio tracks from videos.  
-
+---
 #### **Features**:
 - Downloads YouTube videos in the highest available quality.  
 - Extracts audio and saves it as an MP3 file with customizable quality.  
@@ -38,7 +34,3 @@ python downloader.py
 
 #### **Contributions**:
 Feel free to suggest improvements or report issues via pull requests or the issues section.  
-
---- 
-
-You can further tweak this to suit your style or add specific details!
