@@ -17,7 +17,7 @@
 #### **Installation**:
 1. Clone this repository:  
    ```bash
-   git clone <your-repository-URL>
+   git clone https://github.com/Blackstrat67Official/YT-Video-MP3-Converter
    ```  
 2. Install the required dependencies:  
    ```bash
