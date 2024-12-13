@@ -1,5 +1,5 @@
 # **YouTube Video Downloader & MP3 Extractor**  
----
+
 #### **Features**:
 - Downloads YouTube videos in the highest available quality.  
 - Extracts audio and saves it as an MP3 file with customizable quality.  
